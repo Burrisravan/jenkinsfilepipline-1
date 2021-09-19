@@ -1,0 +1,9 @@
+#########scriptied vs declarctive pipline#############
+
+declarative pipeline is the best where you can restart at every stage.
+declarative pipeline will give error at the starting if you have error.
+{ pipeline--} if it start with pipleine it is called declarative pipelie}
+
+
+scripted pipeline will give error at the paticular stage
+{node--}if it start with node it is called scripted pipline
